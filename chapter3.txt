@@ -1,0 +1,2 @@
+Likely, she's started to learn Git module, and to grasp what was going on.
+And, honestly, all these chapters are just to play around with git and clarify what's wrong with deployment.
