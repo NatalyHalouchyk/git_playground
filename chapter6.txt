@@ -1,0 +1,1 @@
+We continue to dive into a wonderful world of Git. Now, I tackle git rebase command.
